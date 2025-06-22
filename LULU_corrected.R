@@ -1,4 +1,4 @@
-#This is a modification of the LULU function to correct a but
+#This is a modification of the LULU function to correct a bug
 #previously reported (https://github.com/tobiasgf/lulu/issues/8)
 
 #Just call this function instead of the original one, with a call of the type:
